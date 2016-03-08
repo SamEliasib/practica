@@ -6,6 +6,7 @@ opc='S'
 registro=[]
 
 while opc == 'S' or opc == 's':
+    "dasd"
     cedula=raw_input('ingrese la cedula: ')
     if len(cedula) <> 8:
         cedula=raw_input('debe ingresar una cedula valida (de 8 caracteres): ')
