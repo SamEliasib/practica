@@ -23,6 +23,7 @@ registro=[]
     import pdb
     #pdb.set_trace()
     #print 'la persona registrada es: '+str(cedula)+' '+nombre+' '+apellido+' '+sexo
+    "hola de nuevo"
     """
     hola
     """
