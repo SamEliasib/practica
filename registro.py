@@ -5,7 +5,6 @@
 opc='S'
 registro=[]
 
-while opc == 'S' or opc == 's':
     """
     hola
     """
