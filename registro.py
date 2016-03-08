@@ -32,3 +32,4 @@ registro=[]
 
 print registro
 
+"hola"
