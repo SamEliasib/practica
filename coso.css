@@ -1,0 +1,87 @@
+.j-ad-w { 
+	position: relative; 
+	width: 380px; 
+	height: 260px; 
+	background-repeat: no-repeat!important; 
+	background-color: #0a0a0a; 
+	background-position: 100% 50%!important; 
+	overflow: hidden; 
+	-webkit-transition: all 0.6s ease-out; 
+} 
+
+.j-ad-w:hover { 
+	background-position: 0% 50%!important; 
+	-webkit-transition: all 0.6s ease-out; 
+} 
+
+
+.j-ad-c { 
+	width: 100%; 
+	height: 100%; 
+	opacity: 0; 
+	position: absolute; 
+	top: 0px; 
+	left: 0px; 
+	-webkit-filter: grayscale(100%); 
+	-webkit-transition: all 0.6s ease-out; 
+} 
+
+
+.j-ad-w:hover 
+
+.j-ad-c { 
+	-webkit-filter: grayscale(0%); 
+	-webkit-transition: all 0.6s ease-out; 
+} 
+
+
+.j-ad-t1 { 
+	position: absolute; 
+	bottom: 20px; right: 20px; 
+	line-height: 28px!important; 
+	text-align: center; 
+	text-transform: uppercase; 
+	font: 33px Playfair Display; 
+	font-weight: 700; 
+	color: #0a0a0a; 
+	-webkit-transition: all 0.6s ease-out; 
+} 
+
+
+.j-ad-w:hover 
+
+.j-ad-t1 { 
+	color: #fefefe; 
+	-webkit-transition: all 0.6s ease-out; 
+} 
+
+.j-ad-t2 { 
+	width: 142px; 
+	position: absolute; 
+	bottom: 0px; 
+	left: -152px; 
+	text-align: right; 
+	text-transform: uppercase; 
+	font: 12px Playfair Display; 
+	font-weight: 700;
+	color: #fefefe; 
+	-webkit-transition: 0.6s ease-out; 
+} 
+
+.j-ad-w:hover 
+
+.j-ad-t2 { 
+	left: 10px; 
+	-webkit-transition: 0.6s ease-out; 
+} 
+
+.j-ad-t2 a { 
+	display: block; 
+	height: 16px; 
+	border-top: 1px #fefefe solid; 
+	line-height: 16px!important; 
+	font: 6px Lato; 
+	letter-spacing: 1px; 
+	font-weight: 900; 
+	color: #c3c3c3; 
+}
